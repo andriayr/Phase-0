@@ -35,10 +35,10 @@ A pull request let you notify others about the changes you have published to the
 *You will be directed to the "Compare changes screen, make sure to compare the base: master to compare: making changes
 *Click "create pull request" add comments if needed
 *Click "merge pull request" and "confirm merge
-* After merged "delete branch"
-* Go to command line, check master branch and type git fetch origin master
+*After merged "delete branch"
+*Go to command line, check master branch and type git fetch origin master
 *In command line type git merge origin/master
-In command line type *subl .
+*In command line type *subl .
 
 
 ###### Why are pull requests preferred when working with teams?
