@@ -45,3 +45,36 @@ What is “bash?" Bash is a file that processes commands that can be run in the 
 -help- PROVIDES INFORMATION ABOUT THE ONLINE COMMANDS
 
 # 1.4 Forking and cloing reflection
+
+If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be?
+How to Create A New Repo:
+Log into your github account
+Click on the “+” located next to your avatar
+Create a repository name
+Select your privacy setting (public- anyone can see this repository or private-you choose who can see and commit the repository)
+Add an MIT license
+Click “Create repository”
+
+How to Fork a Repo- If you want to copy an interesting repository to your profile, do the following:
+Select the repository you would like to fork
+Click the fork button
+Select the location the repository should be forked to
+After the repository has been forked, you will be directed to your copy of the repository, you will know that it has been copied because your username will be in front of the repository name.
+
+How to Clone a Repo:
+After forking a repository, the repository exits only in your Github account, in order to make edits to your file, it must exist on your computer
+Open your terminal, and identify the path you want to place the repository, and cd to that directory.
+Copy the URL of your forked repository
+In your terminal write git clone followed by the URL, it should look like this:
+git clone URL_THAT YOU COPIED
+Once it has been copied, your terminal will prompt that the copy has been completed.
+Then execute the ls command to ensure that the copy has been added to your directory
+Then open it in sublime
+
+
+
+Why would you fork a repository as opposed to create a new one?
+I would fork a repository if I have identified an interesting repository that I would like add to my profile. I would create a new repository if I am interested in creating something new.
+
+What struggles did you have setting up git and GitHub? What did you learn in the process?
+So far I did not have any challenges setting up git and GitHub. Initially when I was watching the git tutorials I understood how to follow the instructions, but couldn't conceptualize how it worked until going through this particular lesson. Accessing the command line to control the git was very helpful. I feel like I understand the important key terms used in git and github so I have a clearer understanding of what it does and how it works.
