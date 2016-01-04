@@ -78,3 +78,21 @@ I would fork a repository if I have identified an interesting repository that I 
 
 What struggles did you have setting up git and GitHub? What did you learn in the process?
 So far I did not have any challenges setting up git and GitHub. Initially when I was watching the git tutorials I understood how to follow the instructions, but couldn't conceptualize how it worked until going through this particular lesson. Accessing the command line to control the git was very helpful. I feel like I understand the important key terms used in git and github so I have a clearer understanding of what it does and how it works.
+
+Release 2: Reflection
+Reflect on your learning by describing the terms below.
+Browser:
+DNS:
+Domain:
+Internet:
+IP address:
+Web app:
+Web server:
+Website:
+World wide web:
+Explain how the internet displays your website after you push your changes.
+
+What 2 new things did you learn about the web?
+How did you feel when you saw your web page live?
+Did you have an "aha" moments or were any concepts solidified?
+Did you find any resources on your own that helped you better understand a topic?
