@@ -1,6 +1,6 @@
-<!--![Alt text](https://github.com/andriayr/Phase-0/blob/master/week-2/imgs/site-map.png)-->
+<!---![Alt text](https://github.com/andriayr/Phase-0/blob/master/week-2/imgs/site-map.png)-->
 
-![Alt text](./site-map.png)
+![Alt text] (./site-map.png)
 
 What are the 6 Phases of Web Design?
 What is your site's primary goal or purpose? What kind of content will your site feature?
