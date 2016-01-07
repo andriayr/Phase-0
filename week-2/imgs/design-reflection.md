@@ -2,7 +2,7 @@
 
 ![My site map](site-map.png)
 
-What are the 6 Phases of Web Design?
+<b>What are the 6 Phases of Web Design?</b>
 The six stages of web design include the following:
 
 1. Information Gathering
