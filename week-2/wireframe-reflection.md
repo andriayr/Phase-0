@@ -1,5 +1,5 @@
-![Wireframe blog index](updated_wireframe-blog-index.png)
-![Wireframe blog index](updated_wireframe-index.png)
+![Wireframe blog index](/.updated_wireframe-blog-index.png)
+![Wireframe blog index](./updated_wireframe-index.png)
 
 What is a wireframe?
 What are the benefits of wireframing?
