@@ -6,12 +6,11 @@
 
 The six stages of web design include the following:
 
-1. Information Gathering
-2. Planning
-3. Design
-4. Development
-5. Testing and Delivery
-6. Maintenance
+1. Information Gathering- This where we identify the purpose, goal, target audience, and type of content for the site.
+2. Planning- This is where a site map is created.
+3. Design- This is where we create a wire frame, and decide on some the esthetics including font, color, and determine a template for the site.
+4. Development- This is where we create the site, add the graphic elements (HTML/CSS).5. Testing and Delivery- This is where we test the site for functionality; make sure all buttons work, and get feedback from client, and add necessary plug ins.
+6. Maintenance- This is the we focus on the ongoing improvement and updates to the site.
 
 <b>What is your site's primary goal or purpose?</b>
 
@@ -32,7 +31,7 @@ The primary action for users visiting my site and to get information and also gi
 
 <b>What are the main things someone should know about design and user experience?</b>
 
-Based on all of the information gathered from the reading, I would have to say that one of the main things someone should know about User design and experience is that the design and user experience can really dictate the success of the website. The website should offer its visitors value, be easy to use, and a plesant experience.
+Based on all of the information gathered from the reading, I would have to say that one of the main things someone should know about User design and experience is that the design and user experience can really dictate the success of the website. The website should offer its visitors value, be easy to use, and create a plesant experience for the user. The interaction between the user and the product should always be a positive one.
 
 <b>What is user experience design and why is it valuable?</b>
 
