@@ -2,6 +2,7 @@
 
 [Wireframe home index](imgs/updated_wireframe-index.jpg)
 
+![Wireframe home index](updated_wireframe-index.jpg)
 What is a wireframe?
 What are the benefits of wireframing?
 Did you enjoy wireframing your site?
