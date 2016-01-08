@@ -1,4 +1,4 @@
-[Wireframe blog index]imgs/updated_wireframe-blog-index.jpg)
+[Wireframe blog index](imgs/updated_wireframe-blog-index.jpg)
 
 [Wireframe blog index](/Users/andriar./desktop/Dev_Phase-0/Phase-0/week-2/imgs/updated_wireframe-index.jpg)
 
