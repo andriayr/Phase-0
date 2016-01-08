@@ -1,5 +1,6 @@
 <!---[Wireframe blog index](imgs/updated_wireframe-blog-index.jpg)-->
 
+<<<<<<< HEAD
 <!----[Wireframe home index](imgs/updated_wireframe-index.jpg)-->
 
 ![Wireframe home index](imgs/updated_wireframe-index.jpg)
@@ -33,3 +34,14 @@ I asked myself questions about websites I currently visit often and enjoy. I too
 <b>Which parts of the challenge did you enjoy and which parts did you find tedious? </b>
 
 I am still having issues with relative path. I kept getting a blue box with a question mark for my imgs. I also didn't enjoy the process of looking for a free-site I could use that was intuitive to me. I know that it'll take time to figure out which resources work best, but since I am still learning a lot, it felt tedious trying to find the one that I could use easily. I enjoyed greating the wireframe, I thought that process was a little fun, and it was nice to get into the mind set of a web site designer. I felt like I was beginning to understand how all of this can begin to come together.
+=======
+[Wireframe home index](imgs/updated_wireframe-index.jpg)
+
+![Wireframe home index](imgs/updated_wireframe-index.jpg)
+What is a wireframe?
+What are the benefits of wireframing?
+Did you enjoy wireframing your site?
+Did you revise your wireframe or stick with your first idea?
+What questions did you ask during this challenge? What resources did you find to help you answer them?
+Which parts of the challenge did you enjoy and which parts did you find tedious?
+>>>>>>> 1e999cdb5e8a50b1b146f1e9aa68ddee0d2c0a4a
