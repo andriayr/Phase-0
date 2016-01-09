@@ -9,7 +9,7 @@
 
 <b>What is a wireframe?</b>
 
-A website wireframe, is the equivalent to, blueprint...it is a basically visual guide that represents the skeletal framework of a website. Wireframes are created for the purpose of arranging components of the site to best accomplish a particular purpose for a clients needs/wants.
+A website wireframe, is the equivalent to a blueprint...it is basically a visual guide that represents the skeletal framework of a website. Wireframes are created for the purpose of arranging components of the site to best accomplish a particular purpose for a clients needs/wants.
 
 <b>What are the benefits of wireframing?</b>
 
@@ -19,6 +19,7 @@ A few of the benefits of wireframing include:
 2. It allows you to evaluate the effectiveness of the page layout again usability best practices
 3. It determines the requirement of the web site development
 4. It saves time and effort-if a client sees a completed design without a wireframe, it may take a considerable amount of time and money to correct.
+5. It simplifies the coding process since elements are identified early on
 
 <b>Did you enjoy wireframing your site?</b>
 
@@ -26,7 +27,7 @@ I think I could enjoy wireframing a lot more than I did today. I felt a bit rush
 
 <b>Did you revise your wireframe or stick with your first idea?</b>
 
-I revised my framework 2x or so, but I only made slight changes to the lay out of the content.
+I revised my framework 2-3x or so, but I only made slight changes to the lay out of the content.
 
 <b>What questions did you ask during this challenge? What resources did you find to help you answer them? </b>
 
@@ -34,14 +35,4 @@ I asked myself questions about websites I currently visit often and enjoy. I too
 <b>Which parts of the challenge did you enjoy and which parts did you find tedious? </b>
 
 I am still having issues with relative path. I kept getting a blue box with a question mark for my imgs. I also didn't enjoy the process of looking for a free-site I could use that was intuitive to me. I know that it'll take time to figure out which resources work best, but since I am still learning a lot, it felt tedious trying to find the one that I could use easily. I enjoyed greating the wireframe, I thought that process was a little fun, and it was nice to get into the mind set of a web site designer. I felt like I was beginning to understand how all of this can begin to come together.
-=======
-[Wireframe home index](imgs/updated_wireframe-index.jpg)
 
-![Wireframe home index](imgs/updated_wireframe-index.jpg)
-What is a wireframe?
-What are the benefits of wireframing?
-Did you enjoy wireframing your site?
-Did you revise your wireframe or stick with your first idea?
-What questions did you ask during this challenge? What resources did you find to help you answer them?
-Which parts of the challenge did you enjoy and which parts did you find tedious?
->>>>>>> 1e999cdb5e8a50b1b146f1e9aa68ddee0d2c0a4a
