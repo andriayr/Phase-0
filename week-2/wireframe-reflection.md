@@ -1,6 +1,6 @@
-<!--![Wireframe blog index](imgs/2.8 blog.index.html.png)
+<!--![Wireframe blog index](imgs/2.8 blog.index.html.png)-->
 
-<!--![Wireframe home index](imgs/2.8 simple-index.html.png)
+<!--![Wireframe home index](imgs/2.8 simple-index.html.png)-->
 
 ![Wireframe home index](imgs/updated_wireframe-index.jpg)-->
 
