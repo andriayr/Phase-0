@@ -8,7 +8,7 @@
 
 <b>What is a wireframe?</b>
 
-A website wireframe, is the equivalent to, blueprint...it is a basically visual guide that represents the skeletal framework of a website. Wireframes are created for the purpose of arranging components of the site to best accomplish a particular purpose for a clients needs/wants.
+A website wireframe, is the equivalent to a blueprint...it is basically a visual guide that represents the skeletal framework of a website. Wireframes are created for the purpose of arranging components of the site to best accomplish a particular purpose for a clients needs/wants.
 
 <b>What are the benefits of wireframing?</b>
 
@@ -18,14 +18,15 @@ A few of the benefits of wireframing include:
 2. It allows you to evaluate the effectiveness of the page layout again usability best practices
 3. It determines the requirement of the web site development
 4. It saves time and effort-if a client sees a completed design without a wireframe, it may take a considerable amount of time and money to correct.
+5. Simplifies the coding process since the elements are outlined early on.
 
 <b>Did you enjoy wireframing your site?</b>
 
-I think I could enjoy wireframing a lot more than I did today. I felt a bit rushed today, and because of it, I didn't enjoy the process as much. But since I really enjoy putting together power point presentations in ways that I think are esthetically pleasing, I believe I could really enjoy doing wireframing.
+First response: I think I could enjoy wireframing a lot more than I did today. I felt a bit rushed today, and because of it, I didn't enjoy the process as much. But since I really enjoy putting together power point presentations in ways that I think are esthetically pleasing, I believe I could really enjoy doing wireframing. Second response: After coming back to wireframing after this assignment was submitted, I really began to enjoy the process. It's fun, its instantaneous and you get the opportunity to test out and learn about variations of layouts that work and don't work.
 
 <b>Did you revise your wireframe or stick with your first idea?</b>
 
-I revised my framework 2x or so, but I only made slight changes to the lay out of the content.
+I revised my framework 2-4x, but I only made slight changes to the lay out of the content. As I prepared to do the solo challenge, I simplified my wireframe again to simplify the steps that I was preparing to learn.
 
 <b>What questions did you ask during this challenge? What resources did you find to help you answer them? </b>
 
