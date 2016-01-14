@@ -21,14 +21,14 @@ What are the differences between margin, border, and padding?
 
 What was your impression of this challenge overall? (love, hate, and why?) I really did not enjoy this exercise. I felt as though I was guessing rather than making adjustments based on my understanding. I am starting to get a little more comfortable with the concepts of positioning, but I do not feel as though I have a good command of it. I could clearly see my weakness with this aspect of css from this challenge. I don't exactly feel as though I learned a great deal. But instead, this assignment confirmed my limited understanding of the exercise.
 
-![3.4-1](./imgs/3.4-1.png)
-![3.4-1](./imgs/3.4-2.png)
-![3.4-3](./imgs/3.4-3.png)
-![3.4-4](./imgs/3.4-4.png)
-![3.4-5](./imgs/3.4-5.png)
-![3.4-6](./imgs/3.4-6.png)
-![3.4-7](./imgs/3.4-7.png)
-![3.4-8](./imgs/3.4-8.png)
-![3.4-2](./imgs/3.4-9.png)
+![3.4-1](imgs/3.4-1.png)
+![3.4-1](imgs/3.4-2.png)
+![3.4-3](imgs/3.4-3.png)
+![3.4-4](imgs/3.4-4.png)
+![3.4-5](imgs/3.4-5.png)
+![3.4-6](imgs/3.4-6.png)
+![3.4-7](imgs/3.4-7.png)
+![3.4-8](imgs/3.4-8.png)
+![3.4-2](imgs/3.4-9.png)
 
 <img src=imgs/3.4-9.png>
