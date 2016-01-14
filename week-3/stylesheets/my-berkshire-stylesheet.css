@@ -1,0 +1,106 @@
+html {
+  background-color: white;
+}
+
+.first {
+  display:block;
+  font-size: 16px
+}
+
+body {
+  color: #000080;
+}
+
+a:link {
+  color: #800080;
+}
+a:visited {
+  color: #FF0000;
+}
+div {
+  -column-count: 2;
+  -column-count: 2;
+}
+body {
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.second {
+  font-size: 30px;
+}
+
+.third p {
+  font-size: 10px;
+   -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+
+.third {
+  text-align: center;
+  display:block;
+}
+
+.third a:link {
+  color:red;
+}
+
+.fourth {
+  font-size: 12px;
+    display: block;
+    margin: 8px;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px
+}
+
+footer {
+  font-size: :10px;
+}
+.fifth {
+  font-size: 15px;
+}
+
+.fifth a:link {
+  color:red;
+}
+.sixth {
+  font-size: 12px;
+}
+.seventh {
+  font-weight: bold;
+}
+.eight {
+  font-size: 12px;
+  position:static;
+
+}
+
+/* What is important to know when linking an external file (like a stylesheet) to an HTML file?
+It is important to know that the link is supposed to go in between the <head></head>. You must also include a link type="text/css" rel="stylesheet" and an href="stylesheet.css"
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+
+Positioning still feels very difficult for me. I don't quite feel as thought I have a thorough understanding of how I can position the things I would like on my website. I am going to re-do the positioning section of code academy and watch online videos, with the hope that it well help me get a better understanding.
+
+What CSS did you use to modify the element style (like size, color, etc.)
+
+I used a lot of classes, color properties, I use a:link(s), size properties, I dabbled with position a little bit as well, including margin properties.
+
+
+Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+
+I focused a lot on classes, it really made it easier to make changes without having to repeat codes. I chose class over id because it is not good practice to use more than one id, so I stayed away from ids since classes worked just fine for what I needed to accomplish.
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+I think my code actually followed best practices because the original site had html and css together. We have been taught to make sure both are separate and that we link the 2. They did not do that. I think my code is also a littl bit neater, and its primarily for the reason mentioned above. */
+
