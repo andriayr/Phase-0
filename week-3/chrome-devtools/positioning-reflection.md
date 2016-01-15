@@ -31,6 +31,14 @@ What was your impression of this challenge overall? (love, hate, and why?) I rea
 ![3.4-8](imgs/3.4-8.png)
 ![3.4-2](imgs/3.4-9.png)-->
 
+<img src ="../imgs/3.4-1.png">
+<img src ="../imgs/3.4-2.png">
+<img src ="../imgs/3.4-3.png">
+<img src ="../imgs/3.4-4.png">
+<img src ="../imgs/3.4-5.png">
+<img src ="../imgs/3.4-6.png">
+<img src ="../imgs/3.4-7.png">
+<img src ="../imgs/3.4-8.png">
 <img src ="../imgs/3.4-9.png">
 
 <!--<img src ="./3.4-9.png"> -->
