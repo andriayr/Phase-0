@@ -1,3 +1,8 @@
+Address  exercise https://github.com/andriayr/Phase-0/blob/master/week-4/addresses/my_solution1.rb
+
+Math exercise  https://github.com/andriayr/Phase-0/blob/master/week-4/math/my_solution.rb
+
+
 Full name greeting. Write a program that asks for a person’s first name, then middle, and then last. Finally, it should greet the person using their full name.
 puts 'What is your first name?'
 first_name=gets.chomp
