@@ -12,10 +12,10 @@
 
 def shortest_string(list_of_words)
 if list_of_words == []
-        puts list_of_words
+        return nil
     end
     if list_of_words == ['']
-       puts  ''
+       return  ''
     else
         list_of_words.sort! { |x,y|
         x.size<=>y.size}
