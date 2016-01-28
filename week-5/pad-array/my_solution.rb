@@ -30,16 +30,16 @@
 
 # 1. Initial Solution
 
-def pad!(array, min_size, value = nil) #destructive
-    counter = array.length
-    until counter == min_size
-        array.push(value)
-        counter +=1
-    end
-    return array
-end
-pad!([1,2,3,], 5, "apple")
-print pad!
+# def pad!(array, min_size, value = nil) #destructive
+#     counter = array.length
+#     until counter == min_size
+#         array.push(value)
+#         counter +=1
+#     end
+#     return array
+# end
+# pad!([1,2,3,], 5, "apple")
+# print pad!
 
 
 # def pad(array, min_size, value = nil) #non-destructive
