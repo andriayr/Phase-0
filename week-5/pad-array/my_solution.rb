@@ -28,63 +28,76 @@
 #        array padded to min size
 
 
-# 1. Initial Solution
+# 1. Initial Solution ( SOLO)
 
-# def pad!(array, min_size, value = nil) #destructive
-#     counter = array.length
-#     until counter == min_size
-#         array.push(value)
-#         counter +=1
-#     end
-#     return array
+def pad!(array, min_size, value = nil) #destructive (SOLO)
+    if min_size<= array.length
+        return array
+    elsif min_size == 0
+         return array
+     else
+    counter = array.length
+     until counter == min_size
+        array.push(value)
+        counter +=1
+    end
+  end
+    return array
+end
+
+pad!([1,2,3,], 9, "apple")
+
+
+def pad(array, min_size, value = nil) #non-destructive (SOLO)
+    new_array = Array.new(array)
+    if min_size <= array.length
+        return array
+    elsif min_size == 0
+         return array
+     else
+    counter = array.length
+     until counter == min_size
+        new_array.push(value)
+        counter +=1
+    end
+  end
+    return new_array
+end
+
+pad([1,2,3,], 9, "apple")
+
+# def pad!(array, min_size, value = nil) #destructive (W/PARTNER)
+#  # Your code here
+#  if array.length < min_size
+#      for i in 1 .. (min_size - array.length)
+#          array.push(value)
+#          i+=1
+#      end
+#      return array
+#  else
+#      return array
+#  end
 # end
-# pad!([1,2,3,], 5, "apple")
-# print pad!
 
-
-# def pad(array, min_size, value = nil) #non-destructive
-#     new_array=Array.new(array)
-#     counter = new_array.length
-#     until counter == min_size
-#         new_array.push(value)
-#         counter +=1
-#     end
-#     return new_array
+# def pad(array, min_size, value = nil) #non-destructive (W/PARTNER)
+#  # Your code here
+#  new_array = Array.new(array)
+#  if array.length < min_size
+#      for i in 1 .. (min_size - array.length)
+#          new_array.push(value)
+#          i+=1
+#      end
+#      return new_array
+#  else
+#      return new_array
+#  end
 # end
-# pad!([1,2,3,], 5, "apple")
-
-def pad!(array, min_size, value = nil) #destructive
- # Your code here
- if array.length < min_size
-     for i in 1 .. (min_size - array.length)
-         array.push(value)
-         i+=1
-     end
-     return array
- else
-     return array
- end
-end
-
-def pad(array, min_size, value = nil) #non-destructive
- # Your code here
- new_array = Array.new(array)
- if array.length < min_size
-     for i in 1 .. (min_size - array.length)
-         new_array.push(value)
-         i+=1
-     end
-     return new_array
- else
-     return new_array
- end
-end
 
 
-3. Refactored Solution
-new_array=Array.new(array)
-return pad! (new_array,min_size,value)
-end
+# 3. Refactored Solution
+# new_array=Array.new(array)
+# return pad! (new_array,min_size,value)
+# end
 
 
 # 4. Reflection

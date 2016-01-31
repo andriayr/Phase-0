@@ -13,8 +13,8 @@
 
 # Your Solution Below
 def longest_string(list_of_words)
- if list_of_words == []
-   return nil
+  if list_of_words == []
+    return nil
  end
   if list_of_words == ['']
     return ''
