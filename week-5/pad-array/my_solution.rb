@@ -30,7 +30,7 @@
 
 # 1. Initial Solution ( SOLO)
 
-def pad!(array, min_size, value = nil) #destructive (SOLO)
+def pad!(array, min_size, value = nil) #destructive
     if min_size<= array.length
         return array
     elsif min_size == 0
@@ -48,7 +48,7 @@ end
 pad!([1,2,3,], 9, "apple")
 
 
-def pad(array, min_size, value = nil) #non-destructive (SOLO)
+def pad(array, min_size, value = nil) #non-destructive 
     new_array = Array.new(array)
     if min_size <= array.length
         return array
