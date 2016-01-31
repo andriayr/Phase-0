@@ -28,7 +28,7 @@
 #        array padded to min size
 
 
-# 1. Initial Solution ( SOLO)
+# 1. Initial Solution 
 
 def pad!(array, min_size, value = nil) #destructive
     if min_size<= array.length
@@ -66,7 +66,7 @@ end
 
 pad([1,2,3,], 9, "apple")
 
-# def pad!(array, min_size, value = nil) #destructive (W/PARTNER)
+# def pad!(array, min_size, value = nil) #destructive 
 #  # Your code here
 #  if array.length < min_size
 #      for i in 1 .. (min_size - array.length)
@@ -79,7 +79,7 @@ pad([1,2,3,], 9, "apple")
 #  end
 # end
 
-# def pad(array, min_size, value = nil) #non-destructive (W/PARTNER)
+# def pad(array, min_size, value = nil) #non-destructive 
 #  # Your code here
 #  new_array = Array.new(array)
 #  if array.length < min_size
