@@ -6,9 +6,13 @@
 
 # Pseudocode
 
-# Input:
-# Output:
-# Steps:
+# Input: answer/ an integer 
+# Output: return a value or low, high or correct based on the input. At the end
+#it should also return a true or false value based on the input. 
+# Steps: Create a class called GuessingGame that is initizliaed by the integer "answer"
+#Define an instance variable called guess that return :high if guess is creater than @answer, 
+#return :correct if guess == to @answer and returns :low if guess < answer. Then create a final 
+#instance variable named solved and it should returns true if @guess == @answer.
 
 
 # Initial Solution
