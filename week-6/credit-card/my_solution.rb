@@ -1,8 +1,8 @@
 # Class Warfare, Validate a Credit Card Number
 
 
-# I worked on this challenge [by myself, with: ].
-# I spent [#] hours on this challenge.
+# I worked on this challenge [by myself, with: Bethlehem].
+# I spent [2] hours on this challenge.
 
 # Pseudocode 
 #Method initialize:First thing we do is a credit card class, we initialize it using card_num. We raise arrgument error if the
