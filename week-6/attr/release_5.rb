@@ -7,27 +7,6 @@
 
 
 
-class NameData
-  def initialize(name)
-    @name = "Andria"
-  end 
-
-end 
-
-class Greetings
-  def intialize
-    @namedata = NameData.new
-  end 
-
-  def hello
-    puts "Hello"
-  end 
-end
-
-greetings =Greetings.new 
-greetings.hello
-
- 
 class Profile
 # first let's finish refactoring this code
 # note that there is a way to add all of the variables like :age on one line, how would we do that?

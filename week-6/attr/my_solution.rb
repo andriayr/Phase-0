@@ -11,14 +11,26 @@
 # Steps:
 
 class NameData
-
-end
-
+	attr_reader :name
+  
+  def initialize(name)
+    @name = "Andria"
+  end 
+end 
 
 class Greetings
+	
+  def intialize
+    @namedata = NameData.new
+  end 
 
+  def hello
+    puts "Hello I am" + @name_data.name
+  end 
 end
 
+greetings =Greetings.new 
+greetings.hello 
 
 
 # Reflection
