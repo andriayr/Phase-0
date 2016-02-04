@@ -72,4 +72,6 @@ achieve the desired outcome. Less code, readible code= good!
 No, for more than 1 reason. First of all, making everything accessible can be confusing 
 for readibility. A person should not have the ability to change something that isnt 
 truly supposed to be changed. Also, this impacts security. Too much access can be dangerous. 
-12.What is confusing to you about these methods?
+12.What is confusing to you about these methods? The most confusing part was trying to understand
+ how to access information from other classes. Although I was able to get through the exercise, I dont feel like I could 
+ just get this done with having a set of instructions to follow. 
