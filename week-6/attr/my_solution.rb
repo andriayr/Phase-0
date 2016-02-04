@@ -25,7 +25,7 @@ class Greetings
   end 
 
   def hello
-    puts "Hello I am" + @name_data.name
+    puts "Hello, my name is " + @name_data.name
   end 
 end
 
