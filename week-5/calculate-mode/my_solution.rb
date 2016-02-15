@@ -20,21 +20,21 @@
 
 # 1. Initial Solution
 
-def mode(array)
-    mode_return = Hash.new(0)
-    array.each do |v| 
-        mode_return[v] += 1
-end
-#mode_array =[]
-mode_return.each do |v|
-    if v == mode_return.values.max
-       p v
-       # mode_array << k
-    end 
-end 
-#mode_array.sort
-end 
-mode(["apples","apples","tiger", "tiger", "lion"])
+# def mode(array)
+#     mode_return = Hash.new(0)
+#     array.each do |v| 
+#         mode_return[v] += 1
+# end
+# #mode_array =[]
+# mode_return.each do |v|
+#     if v == mode_return.values.max
+#        p v
+#        # mode_array << k
+#     end 
+# end 
+# #mode_array.sort
+# end 
+# mode(["apples","apples","tiger", "tiger", "lion"])
 
 
 # 3. Refactored Solution
@@ -43,7 +43,8 @@ mode(["apples","apples","tiger", "tiger", "lion"])
   mode_return = array.inject({}) { |k, v| k[v] = array.count(v); k }
   mode_return.select { |k,v| v == mode_return.values.max }.keys
 end
-
+ 
+ mode(["apples","apples","tiger", "tiger", "lion"])
 
 # 4. Reflection
 # Which data structure did you and your pair decide to implement and why? We decided to use arrays and hashes because we knew that was 
