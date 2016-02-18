@@ -1,4 +1,4 @@
-imgs/Exercise8-4.png
+![Alt Text]imgs/Exercise8-4.png
 
 
 1. SELECT * FROM states;
