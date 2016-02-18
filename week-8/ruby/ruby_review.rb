@@ -3,6 +3,9 @@
 
 
 # Pseudocode
+#Define a method called super_fizzbuzz that takes an an array as its arguement. Next create a new array to place the output. 
+# Create an if statement that requires an integer % 15 to return Fizzbuzz, an integer % 3 to return Fizz and an integer % 5 to return
+# Buzz, if the integer is not divisible by those numbers, just return the integer, and then return the array that contains the output. 
 
 
 
